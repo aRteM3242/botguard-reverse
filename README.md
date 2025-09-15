@@ -152,10 +152,11 @@ I know we see this all the time, but please note that you cannot use this for ma
 
 # Contact
 
-If you'd like to talk to me about this project or any other matter, please use one of the methods below.
+If you'd like to talk to me (Cypa) about this project or any other matter, please use one of the methods below.
 
 - <a href="mailto:botguard@csolver.net">botguard@csolver.net</a>
 - <a href="https://t.me/botguarded">@botguarded</a>
-- <a href= "https://t.me/ReversedIt">@ReversedIt</a> This is my community I made on Telegram if you'd like to join
+- <a href= "https://t.me/ReversedIt">@ReversedIt</a> This is my (Cypa) community I made on Telegram if you'd like to join
 
-**I do not use Discord for outreach unless explicitly requested.** If someone contacts you claiming to be me on Discord, verify via email or Telegram first.
+**I (Cypa) do not use Discord for outreach unless explicitly requested.** If someone contacts you claiming to be me (Cypa) on Discord, verify via email or Telegram first.
+
