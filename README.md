@@ -1,4 +1,5 @@
 Visit this link for the full reverse of Botguard: [cdn.csolver.net/botguard](https://cdn.csolver.net/botguard)
+This project belong to Cypa.
 
 # ReCaptcha BotGuard
 
@@ -135,3 +136,4 @@ Now, we cannot load up and use new opcodes by only the string, so ofcourse they 
 We have properly added support for everything needed, but there's still one more thing, outside of classic opcodes. It is an operation, but not quite, it is error handlers, but its responsable for one of the most important parts in the VM. It handles the main loop within the VM, but they use `loop unrolling` which is an optimization technique used, but can also be seen as obfuscation, which in this case, it could be both. Anyways, they catch errors, then send it off into another function that has a few calls to make, it modifes two different register values (arrays) and checks if another register values (integer) is more than 3, if it is, it subtracts 3 and calls another encryption function on both the arrays. This encryption function pushes the newly encrypted values into each of the arrays, it does this over and over and the loop count changes per script, but for this particular script, it takes around 38 iterations. Below you can see the error handler function.
 
 <img src="images/photo_15.jpg" alt="image" width="100%">
+
